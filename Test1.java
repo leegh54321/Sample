@@ -3,6 +3,11 @@
 		System.out.println("Hello");
 		System.out.println("World");
 		System.out.println("gunhee");
+
 		System.out.println("Programming");
+
+		System.out.println("sm");
+		System.out.println("computer");
+
 	}
 }
