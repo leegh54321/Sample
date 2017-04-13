@@ -8,6 +8,7 @@
 
 		System.out.println("sm");
 		System.out.println("computer");
+//작성자: Sample125
 
 	}
 }
